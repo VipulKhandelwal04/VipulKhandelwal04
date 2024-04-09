@@ -1,4 +1,4 @@
-#Introducing Mayself
+#Introducing Myself
 
 Hello, I'm Vipul— a Business Analyst with expertise in data analysis and reporting, query optimization, business planning, and product roadmap development.
 
