@@ -13,7 +13,7 @@ Tools:
 • Visualization: Power BI, QlikSense, Google Looker Studio, Tableau
 • Reporting: Excel, Google Sheets
 
-Reach out to me at
+Reach out to me at:
 • [Linkedin](www.linkedin.com/in/vipul-khandelwal04)
 
 
