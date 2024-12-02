@@ -9,7 +9,7 @@ Hello, I'm Vipul— a Business Analyst with expertise in data analysis and repor
 
 Tools<br/>
 • Language: Python, SQL<br/>
-• Database: Google Big Query, Postgres<br/>
+• Database: Postgres<br/>
 • Visualization: Power BI, QlikSense, Google Looker Studio, Tableau<br/>
 • Reporting: Excel, Google Sheets<br/>
 
