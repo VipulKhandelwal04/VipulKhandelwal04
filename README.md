@@ -14,7 +14,7 @@ Tools<br/>
 • Reporting: Excel, Google Sheets<br/>
 
 Reach out to me at <br/>
-• [Linkedin](www.linkedin.com/in/vipul-khandelwal04)
+• [Linkedin](www.linkedin.com/in/vipul-khandelwal-analytics)
 
 
 <!---
