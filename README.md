@@ -27,12 +27,15 @@ From Civil Engineering to Data Analytics - leveraging analytical rigor and probl
 - **Stakeholder Management** - Translating complex analytical insights into actionable business recommendations for C-level executives
 - **Process Improvement** - Implementing data-driven operational optimizations that deliver measurable ROI
 
- ___            __          __    ____          __      __    __       
-| _ \_ _ ___ __| |_  _ __ _| |_  |_ _|_ _  ___ (_) __ _| |__ | |_ ___ 
-|  _/ '_/ _ / _` | || / _| | '_|  | || ' \(_-< | |/ _` | '_ \| __(_-< 
-|_| |_| \___\__,_|\_,_\__|_|_|  |___|_||_/__/_|_|\__, |_| |_|\___|___/
-                                                |___/                
-
+____        _         ___           _    ____            _        _     
+/ __ )__ () _ ( _ ) _ _ _ | | | _ \ _ _ ___ | | _ | |
+/ __ / / / / / __ |/ _ // ___| _| |_) / _| / _|/ _ | | | || __|
+/ // / // / / / / / (> < (| |__ || / | |/ /| (| | || || |
+//_,/// /_/ _/|_,|/_|| || ____,|_,| __|
+|_ | _ () __ | | | | ___
+| || ' $$-< |/ ` | ' | __(-<
+||||_//|_, || ||_//
+|/
 
 Currently expanding into **Data Science** to enhance product strategy with predictive analytics and machine learning insights.
 
