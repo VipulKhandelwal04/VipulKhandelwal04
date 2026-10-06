@@ -18,8 +18,7 @@ somewhere along the way I stopped being satisfied with telling teams what the
 data said. So I started building the products myself.
 
 Most of the job is not glamorous. Agreeing on the one metric that matters before
-anything gets built. Testing an AI feature properly before a user ever sees it.
-Cutting the feature you were proudest of because nobody used it. The interesting
+anything gets built. Testing an AI feature properly before a user ever sees it. The interesting
 part of product work is usually the decision nobody sees.
 
 ### Products
