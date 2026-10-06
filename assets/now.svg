@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="48" viewBox="0 0 880 48">
+  <defs>
+    <linearGradient id="bgn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b23"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="47" rx="8" fill="url(#bgn)" stroke="#30363d"/>
+  <text x="22" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#FF4655">&gt;</text>
+  <text x="44" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3" opacity="1">decide what you will measure before you decide what you will build
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.313;0.318;1" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="44" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3" opacity="0">an AI feature is ready when it passes the evals, not when the demo works
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.338;0.647;0.652;1" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="44" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3" opacity="0">start rule-based. earn the complex model with usage data
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.667;0.672;0.980;0.985;1" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <rect x="846" y="16" width="8" height="17" rx="1" fill="#FF4655">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>

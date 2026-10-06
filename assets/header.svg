@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="212" viewBox="0 0 880 212">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b23"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="211" rx="8" fill="url(#bg)" stroke="#30363d"/>
+
+  <text x="40" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="650" letter-spacing="-0.5" fill="#e6edf3">Vipul Khandelwal</text>
+  <text x="41" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2.6" fill="#FF4655">AI PRODUCT MANAGER WHO BUILDS</text>
+  <text x="41" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">Four years in product analytics. Three products live.</text>
+
+  <path id="main" d="M 585 104 L 803 104" fill="none" stroke="#30363d" stroke-width="1.4"/>
+  <path id="cut" d="M 585 104 L 728 104 L 746 122 L 746 162" fill="none"/>
+  <path d="M 746 122 L 746 162" fill="none" stroke="#30363d" stroke-width="1.4" stroke-dasharray="3 4"/>
+  <path id="loop" d="M 840 90 C 840 34, 548 34, 548 90" fill="none" stroke="#30363d" stroke-width="1.4" stroke-dasharray="3 4"/>
+  <text x="694.0" y="40" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9198a1">measure</text>
+
+  <circle r="4.5" fill="#FF4655" opacity="0">
+    <animateMotion dur="7s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#main"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#9198a1" opacity="0">
+    <animateMotion dur="7s" begin="3.5s" repeatCount="indefinite"><mpath href="#cut"/></animateMotion>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.01;0.06;0.85;1" dur="7s" begin="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="510.0" y="90" width="76" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <text x="548" y="108.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#e6edf3">problem</text>
+  <rect x="615.0" y="90" width="62" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <text x="646" y="108.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#e6edf3">build</text>
+  <rect x="729" y="87" width="34" height="34" rx="6" transform="rotate(45 746 104)" fill="#161b22" stroke="#FF4655" stroke-width="1.2"/>
+  <text x="746" y="108" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#FF4655">eval</text>
+  <rect x="810.0" y="90" width="60" height="28" rx="6" fill="#161b22" stroke="#FF4655" stroke-width="1.2"/>
+  <text x="840" y="108.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#FF4655">ship</text>
+  <rect x="720.0" y="162" width="52" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <text x="746" y="180.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#e6edf3">cut</text>
+
+
+</svg>

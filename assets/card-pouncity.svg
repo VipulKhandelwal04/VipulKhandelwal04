@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="196" viewBox="0 0 432 196">
+  <defs>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b23"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="431" height="195" rx="8" fill="url(#bgc)" stroke="#30363d"/>
+  <text x="26" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="650" fill="#e6edf3">Pouncity</text>
+  <rect x="362.4" y="26" width="43.6" height="22" rx="11" fill="#3d1d22" stroke="#FF4655"/>
+  <text x="384.2" y="41" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#FF4655">Live</text>
+  <text x="26" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">AI pet-care companion for dog and cat owners. One</text>
+  <text x="26" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">living profile per pet, with personalised diet,</text>
+  <text x="26" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">health and grooming guidance.</text>
+  <text x="26" y="172" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#FF4655">pouncity.vercel.app &#x2197;</text>
+
+</svg>
